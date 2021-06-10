@@ -15,7 +15,7 @@ The Lucas Numbers are a related series of integers that start with the values 2 
 
 ## Change Log
 
-### [Link to PR on GitHub]
+### [Link to PR on GitHub](https://github.com/kassiebradshaw/math-series/pull/1)
 
 06-08-21:
 
